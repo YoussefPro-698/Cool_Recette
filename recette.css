@@ -1,0 +1,149 @@
+* {
+    overflow: auto;
+  }
+html {
+    min-height: 850.4;
+    min-width: 1210;
+     }
+body {
+    background-color: #bbb88b;
+    font-family: Arial;
+     }
+p#CATEGORI {
+    background-color: black;
+    color: white;
+    display: inline-block;
+    text-align: 50%;
+    padding: 8px 20px;
+    margin-top: -20px;
+    margin-bottom: 0px;
+    font-size: 33px;
+    font-weight: bold;
+           }
+div.CONTENU {
+    background-color: white;
+    margin: 60px 10% 80px 10%;
+    padding: 0px 30px 30px 30px;
+    min-width: 581px;
+    min-height: 837px;
+    box-shadow: 0px 0px 60px 10px rgba(0, 0, 0, 0.433);
+    overflow: visible;
+            }
+h1 {
+    text-align: center;
+    font-size: 350%;
+    margin-bottom: 15px;
+    margin-top: 9px;
+   }
+p#des {
+    text-align: center;
+    max-width: 400px;
+    display: inline-block;
+    font-size: 15px;
+    font-size: 90%;
+      }
+div.desc{
+    text-align: center;
+        }
+div.categori {
+    text-align: center;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    overflow: visible;
+             }
+div.separa {
+    width: 25%;
+    height: 2px;
+    background-color: black;
+    margin-left: auto;
+    margin-right: auto;
+           }
+.Image {
+    width: 100%;
+    display: block;
+    max-height: 500px;
+    min-width: 350px;
+    min-height: 500px;
+    object-fit: cover;
+    background-color: rgba(157, 108, 108, 0.745)
+       }
+.Info {
+    position: absolute;
+    bottom: 0px; width: 100%; right: auto;
+    color: white;
+    background-color: #9d926cc0;
+    height: 25%
+      }
+.Info td {
+    text-align: center;
+    font-size: 170%;
+    vertical-align: top;
+         }
+.Info th {
+    text-align: center;
+    font-size: 200%;
+    vertical-align: bottom;
+    padding-bottom: 8px;
+         }
+.c {
+    margin-top: 20px;
+    width: 45%;
+   }
+div.c h2 {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 30px;
+    border-bottom: 5px solid #9d6c6c;
+    padding-bottom: 5px;
+         }
+.COL1 {
+    margin-right: 10%;
+    display: inline-block;
+      }
+.COL2 {
+    float: right;
+    overflow: visible;
+      }
+div.COL1 p {
+    text-align: center;
+    font-size: 29px;
+    border: 2px solid lightgray;
+    padding: 8px 0px;
+    margin-top: 4px;
+    margin-bottom: 0px;
+           }
+table.preparation p.num {
+    background-color: #9d896c;
+    color: white;
+    text-align: center;
+    width: 45px;
+    height: 45px;
+    font-size: 30px;
+    font-weight: bold;
+    padding-top: 10%;
+    box-sizing: border-box;
+    border-radius: 50%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-top: 1px;
+    overflow: visible;
+    padding-top: 6px;
+    box-shadow: 0px 0px 6px 10px;
+    text-shadow: 0px 0px 100px 10px;
+                        }
+table.preparation td {
+    vertical-align: top;
+                     }
+table.preparation td.s {
+    padding-top: 20px;
+    padding-left: 10px;
+                       }
+table.preparation tr {
+    height: 1px;
+                     }
+div.PREP {
+    overflow: visible;
+         }
+div.col {
+    overflow: auto;
+        }
